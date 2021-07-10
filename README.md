@@ -1,2 +1,1 @@
-# outermost-edd-utilities
- 
+# outermost-theme-blocks

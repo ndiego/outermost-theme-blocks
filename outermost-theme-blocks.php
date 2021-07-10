@@ -13,7 +13,7 @@
  * Text Domain:         outermost-theme-blocks
  * Domain Path:         /languages
  *
- * GitHub Plugin URI:   ndiego/outermost-edd-utilities
+ * GitHub Plugin URI:   ndiego/outermost-theme-blocks
  *
  * @package outermost-edd-utilities
  */
