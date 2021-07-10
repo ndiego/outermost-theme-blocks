@@ -1,0 +1,44 @@
+{
+	"apiVersion": 2,
+	"name": "otb/post-modified-date",
+	"title": "Post Modified Date",
+	"category": "theme",
+	"description": "Add the modified date of this post.",
+	"textdomain": "outermost-theme-blocks",
+	"attributes": {
+		"textAlign": {
+			"type": "string"
+		},
+		"format": {
+			"type": "string"
+		},
+		"isLink": {
+			"type": "boolean",
+			"default": false
+		},
+		"hasLabel": {
+			"type": "boolean",
+			"default": false
+		},
+		"labelAfterDate": {
+			"type": "boolean",
+			"default": false
+		},
+		"dateLabel": {
+			"type": "string"
+		}
+	},
+	"usesContext": [ "postId", "postType", "queryId" ],
+	"supports": {
+		"html": false,
+		"color": {
+			"gradients": true,
+			"link": true
+		},
+		"typography": {
+			"fontSize": true,
+			"fontWeight": true,
+			"lineHeight": true
+		}
+	}
+}
