@@ -3,7 +3,7 @@
  * Plugin Name:         Outermost Theme Blocks
  * Plugin URI:          https://www.nickdiego.com
  * Description:         Custom blocks for the Outermost theme.
- * Version:             0.1.0
+ * Version:             0.2.0
  * Requires at least:   5.5
  * Requires PHP:        5.6
  * Author:              Nick Diego
@@ -14,6 +14,7 @@
  * Domain Path:         /languages
  *
  * GitHub Plugin URI:   ndiego/outermost-theme-blocks
+ * Primary Branch:      main
  *
  * @package outermost-edd-utilities
  */

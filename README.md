@@ -1,1 +1,3 @@
-# outermost-theme-blocks
+# Outermost Theme Blocks
+
+Custom blocks for the Outermost theme.
